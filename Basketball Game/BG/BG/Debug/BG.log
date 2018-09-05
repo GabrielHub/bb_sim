@@ -1,0 +1,11 @@
+﻿  Team.cpp
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(187): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(211): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ongfa\onedrive - nyu.edu\cs\basketball game\bg\bg\team.cpp(290): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BG.vcxproj -> C:\Users\OngFa\OneDrive - nyu.edu\CS\Basketball Game\BG\Debug\BG.exe
